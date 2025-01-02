@@ -11,7 +11,6 @@ I'm looking to connect with professionals in the cybersecurity industry to learn
 ## Progress Updates
 - [ ] Introduced myself on GitHub.
 - [ ] Connected with 10 cybersecurity professionals here and on LinkedIn.
-- [ ] Completed [tasks from my course].
 
 ## Contact Me
 Let's connect on [LinkedIn](https://www.linkedin.com/in/gift-asuquo-86999321a/)
